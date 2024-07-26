@@ -1,0 +1,10 @@
+{
+  "gui.antique_atlas.scalebar": "比例尺",
+  "gui.antique_atlas.addMarker": "增加標記",
+  "gui.antique_atlas.delMarker": "移除標記",
+  "gui.antique_atlas.followPlayer": "跟隨玩家",
+  "gui.antique_atlas.hideMarkers": "隱藏標記",
+  "gui.antique_atlas.showMarkers": "顯示標記",
+  "gui.antique_atlas.marker.label": "標籤",
+  "structure.tag.minecraft.village": "村莊"
+}

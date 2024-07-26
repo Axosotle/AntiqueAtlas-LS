@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "antique-atlas",
+  "version": "${version}",
+  "name": "Antique Atlas",
+  "description": "An always-accessible abstract world map.",
+  "authors": [
+    "Hunternif",
+    "tyra314",
+    "Sisby folk"
+  ],
+  "contributors": [
+    "Kenkron",
+    "asiekierka",
+    "Haven-King",
+    "TheCodeWarrior",
+    "osipxd",
+    "coolAlias",
+    "TehNut",
+    "lumiscosity",
+    "frodolon"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/antique-atlas-4",
+    "issues": "https://github.com/sisby-folk/antique-atlas/issues",
+    "sources": "https://github.com/sisby-folk/antique-atlas"
+  },
+  "icon": "assets/antique_atlas/icon.png",
+  "license": "LGPL-3.0-only",
+  "entrypoints": {
+    "client": [
+      "folk.sisby.antique_atlas.AntiqueAtlas"
+    ]
+  },
+  "depends": {
+    "minecraft": ">=${mc}",
+    "fabricloader": ">=${fl}",
+    "fabric-api": ">=${fapi}",
+    "surveyor": ">=${surveyor}"
+  }
+}
